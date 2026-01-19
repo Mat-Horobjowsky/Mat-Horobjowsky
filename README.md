@@ -32,6 +32,6 @@ My goal is to build **practical, business-first systems** — not flashy demos.
 ---
 
 📍 Montreal, Canada
-🔗 LinkedIn: linkedin.com/in/mat-horobjowsky-b69a133a6
+🔗 LinkedIn: linkedin.com/in/mat-horobjowsky
 
 > I’m sharing what I build as I go.
