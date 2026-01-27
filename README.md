@@ -1,37 +1,25 @@
-# Hi, I’m Mat 👋
+# Hi, I'm Mat 👋
 
-I build **internal AI agents** that help businesses automate repetitive work.
+I'm an aspiring **Financial Data Analyst** with a strong interest in:
+- Market data & financial analysis
+- Power BI dashboards
+- SQL & PostgreSQL
+- Python for analytics and automation
+- AI agents for workflow optimization
 
-## What I’m focused on
+## 🔍 Current Focus
+- PL-300 (Microsoft Power BI Data Analyst)
+- Financial data projects (market data, KPIs, trends)
+- Building a strong analytics portfolio
 
-* AI agents for **research & summarization**
-* Document Q&A agents for **internal knowledge**
-* Simple automation for **reporting and operations**
+## 🧰 Tools & Skills
+- Power BI (DAX, data modeling)
+- SQL (PostgreSQL)
+- Python (pandas, matplotlib)
+- Excel (advanced formulas, financial analysis)
 
-My goal is to build **practical, business-first systems** — not flashy demos.
+## 📊 Featured Projects
+(Coming soon — actively building)
 
-## Current projects
-
-* 🔍 Research Agent — summarizes topics automatically
-* 📄 Document Q&A Agent — ask questions across PDFs
-* ⚙️ Ops Automation Agent — generates reports from data
-
-## Tech (kept intentionally simple)
-
-* Python
-* LLM APIs
-* Prompt design
-* Basic automation & tooling
-
-## How I work
-
-* Clear inputs → structured outputs
-* Human-in-the-loop where it matters
-* Focus on saving time, not adding complexity
-
----
-
-📍 Montreal, Canada
-🔗 LinkedIn: linkedin.com/in/mat-horobjowsky
-
-> I’m sharing what I build as I go.
+## 📫 Connect
+- LinkedIn: [www.linkedin.com/in/mat-horobjowsky]
