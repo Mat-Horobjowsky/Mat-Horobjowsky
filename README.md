@@ -1,25 +1,47 @@
 # Hi, I'm Mat 👋
 
-I'm an aspiring **Financial Data Analyst** with a strong interest in:
-- Market data & financial analysis
-- Power BI dashboards
-- SQL & PostgreSQL
-- Python for analytics and automation
-- AI agents for workflow optimization
+I build analytics systems that turn messy data into trusted business insights.
+
+My current focus is combining traditional BI skills with modern data tooling and AI-enabled workflows.
 
 ## 🔍 Current Focus
-- PL-300 (Microsoft Power BI Data Analyst)
-- Financial data projects (market data, KPIs, trends)
-- Building a strong analytics portfolio
+
+* Building modular analytics tools in Python
+* Power BI dashboards & semantic models
+* SQL / DuckDB / PostgreSQL analytics
+* Financial & infrastructure market intelligence
+* AI agents for analytics automation
+
+## 🚀 Recent Project
+
+### Intake Engine v1.0
+
+A modular Python data ingestion tool for turning messy CSV / TSV / Excel files into analytics-ready outputs.
+
+Features include:
+
+* Automated cleaning & normalization
+* Validation + profiling reports
+* DuckDB loading
+* Batch processing
+* YAML pipeline configs
+* HTML reporting
 
 ## 🧰 Tools & Skills
-- Power BI (DAX, data modeling)
-- SQL (PostgreSQL)
-- Python (pandas, matplotlib)
-- Excel (advanced formulas, financial analysis)
 
-## 📊 Featured Projects
-(Coming soon — actively building)
+* Power BI (DAX, modeling, dashboards)
+* SQL (PostgreSQL, DuckDB)
+* Python (Polars, Pandas, automation)
+* Excel
+* Git / GitHub
+* Data quality & pipeline design
+
+## 🎯 Current Build Path
+
+Clean data → Trusted metrics → Visuals anywhere
+
+Next project: **Metrics Engine**
 
 ## 📫 Connect
-- LinkedIn: [www.linkedin.com/in/mat-horobjowsky]
+
+LinkedIn: [www.linkedin.com/in/mat-horobjowsky](http://www.linkedin.com/in/mat-horobjowsky)
