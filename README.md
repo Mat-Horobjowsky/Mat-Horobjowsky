@@ -69,7 +69,7 @@ Current Build Path
 
 Completed:
 
-Intake Engine
+Intake Engine,
 Metrics Engine
 
 Next:
