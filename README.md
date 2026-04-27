@@ -46,7 +46,6 @@ Features include:
 
 ## Build Philosophy
 
-```text
 Clean data → Trusted metrics → Visuals anywhere
 
 My goal is to build analytics systems where:
@@ -55,7 +54,9 @@ messy source files become clean data,
 KPI logic is reusable and auditable,
 dashboards consume trusted outputs,
 and future AI agents can reason over structured metrics.
+
 Tools & Skills
+
 Power BI: DAX, modeling, dashboards
 SQL: PostgreSQL, DuckDB
 Python: Pandas, Polars, automation
